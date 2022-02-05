@@ -1,6 +1,6 @@
 var weatherEL = $("#weather-container");
 var historyEl = $("history");
-var apiKey = "aa630346e91a6441f826ab5f7a6be4a5";
+var apiKey = "258b749bd96c1474c73eaaad7de3d77b";
 var searchHistory = [];
 
 function searchCity(event, city) {
